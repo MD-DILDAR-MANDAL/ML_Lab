@@ -1,0 +1,121 @@
+Applicant_ID,Age,Gender,Marital_Status,Dependents,Monthly_Income,Employment_Status,Employment_Duration,Total_Monthly_Debt_Obligations,Credit_Score,Credit_History_Length,Debt_to_Income_Ratio,Loan_Amount,Loan_Term,Down_Payment_Amount,Interest_Rate,Installment_Amount,Housing_Status,Education_Level,Previous_Loan_Status,Previous_Loan_Amount,Previous_Loan_Term,Previous_Loan_Purpose,Loan_Eligibility
+1,35,Male,Married,2,6000,Employed,5,1500,700,3,0.25,20000,60,4000,0.08,420,Own,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+2,28,Female,Single,0,4000,Employed,3,800,650,2,0.2,12000,48,2000,0.07,260,Rent,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+3,45,Male,Married,3,8000,Self-Employed,8,2000,720,5,0.3,30000,72,6000,0.09,550,Own,Master's,Previous Loan Closed,25000,60,Car Purchase,Not Eligible
+4,33,Female,Married,1,5500,Employed,6,1200,680,4,0.24,18000,60,3000,0.08,380,Own,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+5,40,Male,Divorced,0,7000,Employed,10,1500,720,7,0.35,25000,60,4000,0.08,420,Own,High School,Not Applicable,0,0,Not Applicable,Eligible
+6,27,Female,Single,0,3800,Employed,2,600,630,2,0.18,10000,36,1500,0.06,210,Rent,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+7,48,Male,Married,4,9000,Employed,12,1800,750,9,0.4,35000,72,7000,0.1,590,Own,Doctorate,Not Applicable,0,0,Not Applicable,Eligible
+8,31,Female,Married,2,6200,Employed,7,1400,700,5,0.32,22000,60,4500,0.09,460,Own,Master's,Not Applicable,0,0,Not Applicable,Eligible
+9,36,Male,Single,1,5800,Employed,4,1300,690,4,0.26,19000,60,3500,0.08,400,Rent,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+10,29,Female,Single,0,4200,Employed,3,700,660,3,0.22,13000,48,2500,0.07,290,Rent,High School,Not Applicable,0,0,Not Applicable,Eligible
+11,42,Male,Married,2,7500,Self-Employed,9,1600,730,6,0.28,28000,72,5000,0.09,520,Own,Master's,Previous Loan Closed,20000,48,Home Improvement,Not Eligible
+12,30,Female,Married,1,5400,Employed,5,1100,670,4,0.25,17000,60,2800,0.08,360,Own,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+13,38,Male,Single,0,6500,Employed,8,1500,710,5,0.29,23000,60,4000,0.08,420,Rent,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+14,26,Female,Single,0,3800,Employed,2,600,630,2,0.18,10000,36,1500,0.06,210,Rent,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+15,47,Male,Married,3,8500,Employed,11,1700,740,8,0.38,32000,72,6000,0.1,560,Own,Doctorate,Not Applicable,0,0,Not Applicable,Eligible
+16,32,Female,Married,2,6000,Employed,6,1300,690,5,0.29,20000,60,3500,0.08,400,Own,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+17,39,Male,Single,1,5900,Employed,4,1400,700,4,0.27,21000,60,4000,0.08,420,Rent,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+18,28,Female,Single,0,4200,Employed,3,700,660,3,0.22,13000,48,2500,0.07,290,Rent,High School,Not Applicable,0,0,Not Applicable,Eligible
+19,44,Male,Married,2,7800,Self-Employed,10,1600,730,6,0.29,29000,72,5000,0.09,520,Own,Master's,Previous Loan Closed,22000,48,Home Improvement,Not Eligible
+20,31,Female,Married,1,5600,Employed,5,1200,670,4,0.26,18000,60,3000,0.08,380,Own,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+21,37,Male,Single,0,6600,Employed,8,1500,710,5,0.29,24000,60,4000,0.08,420,Rent,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+22,25,Female,Single,0,3600,Employed,2,600,630,2,0.18,10000,36,1500,0.06,210,Rent,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+23,46,Male,Married,3,7200,Employed,7,1400,710,6,0.31,23000,60,3500,0.08,400,Own,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+24,34,Female,Married,1,5700,Employed,4,1200,680,5,0.27,19000,60,3000,0.08,380,Own,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+25,41,Male,Single,0,6800,Employed,9,1600,720,6,0.29,25000,60,4500,0.09,460,Rent,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+26,29,Female,Single,0,4400,Employed,3,800,660,3,0.2,13000,48,2500,0.07,290,Rent,High School,Not Applicable,0,0,Not Applicable,Eligible
+27,43,Male,Married,2,7600,Self-Employed,10,1700,730,7,0.3,28000,72,5000,0.09,520,Own,Master's,Previous Loan Closed,21000,48,Home Improvement,Not Eligible
+28,33,Female,Married,1,5200,Employed,6,1100,670,4,0.26,18000,60,2800,0.08,360,Own,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+29,39,Male,Single,1,6000,Employed,5,1300,690,5,0.28,21000,60,4000,0.08,420,Rent,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+30,27,Female,Single,0,3600,Employed,2,600,630,2,0.18,10000,36,1500,0.06,210,Rent,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+31,48,Male,Married,3,8000,Employed,11,1600,720,8,0.32,30000,72,6000,0.1,560,Own,Doctorate,Not Applicable,0,0,Not Applicable,Eligible
+32,32,Female,Married,2,5800,Employed,6,1200,680,5,0.28,19000,60,3000,0.08,380,Own,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+33,37,Male,Single,1,6200,Employed,4,1400,700,5,0.29,22000,60,4000,0.08,420,Rent,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+34,26,Female,Single,0,3800,Employed,2,600,630,2,0.18,10000,36,1500,0.06,210,Rent,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+35,47,Male,Married,3,8500,Employed,12,1700,740,8,0.38,32000,72,6000,0.1,560,Own,Doctorate,Not Applicable,0,0,Not Applicable,Eligible
+36,31,Female,Married,2,6000,Employed,6,1300,690,5,0.29,20000,60,3500,0.08,400,Own,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+37,38,Male,Single,1,5900,Employed,4,1400,700,4,0.27,21000,60,4000,0.08,420,Rent,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+38,28,Female,Single,0,4200,Employed,3,700,660,3,0.22,13000,48,2500,0.07,290,Rent,High School,Not Applicable,0,0,Not Applicable,Eligible
+39,44,Male,Married,2,7800,Self-Employed,10,1600,730,6,0.29,29000,72,5000,0.09,520,Own,Master's,Previous Loan Closed,22000,48,Home Improvement,Not Eligible
+40,31,Female,Married,1,5600,Employed,5,1200,670,4,0.26,18000,60,3000,0.08,380,Own,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+41,37,Male,Single,0,6600,Employed,8,1500,710,5,0.29,24000,60,4000,0.08,420,Rent,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+42,25,Female,Single,0,3600,Employed,2,600,630,2,0.18,10000,36,1500,0.06,210,Rent,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+43,46,Male,Married,3,7200,Employed,7,1400,710,6,0.31,23000,60,3500,0.08,400,Own,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+44,34,Female,Married,1,5700,Employed,4,1200,680,5,0.27,19000,60,3000,0.08,380,Own,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+45,41,Male,Single,0,6800,Employed,9,1600,720,6,0.29,25000,60,4500,0.09,460,Rent,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+46,28,Female,Single,0,4200,Employed,3,700,660,3,0.22,13000,48,2500,0.07,290,Rent,High School,Not Applicable,0,0,Not Applicable,Eligible
+47,44,Male,Married,2,7800,Self-Employed,10,1600,730,6,0.29,29000,72,5000,0.09,520,Own,Master's,Previous Loan Closed,22000,48,Home Improvement,Not Eligible
+48,31,Female,Married,1,5600,Employed,5,1200,670,4,0.26,18000,60,3000,0.08,380,Own,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+49,37,Male,Single,1,6200,Employed,4,1400,700,5,0.29,22000,60,4000,0.08,420,Rent,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+50,26,Female,Single,0,3800,Employed,2,600,630,2,0.18,10000,36,1500,0.06,210,Rent,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+51,47,Male,Married,3,8500,Employed,12,1700,740,8,0.38,32000,72,6000,0.1,560,Own,Doctorate,Not Applicable,0,0,Not Applicable,Eligible
+52,31,Female,Married,2,6000,Employed,6,1300,690,5,0.29,20000,60,3500,0.08,400,Own,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+53,39,Male,Single,1,5900,Employed,5,1300,690,5,0.28,21000,60,4000,0.08,420,Rent,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+54,28,Female,Single,0,4200,Employed,3,700,660,3,0.22,13000,48,2500,0.07,290,Rent,High School,Not Applicable,0,0,Not Applicable,Eligible
+55,44,Male,Married,2,7800,Self-Employed,10,1600,730,6,0.29,29000,72,5000,0.09,520,Own,Master's,Previous Loan Closed,22000,48,Home Improvement,Not Eligible
+56,31,Female,Married,1,5600,Employed,5,1200,670,4,0.26,18000,60,3000,0.08,380,Own,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+57,37,Male,Single,0,6600,Employed,8,1500,710,5,0.29,24000,60,4000,0.08,420,Rent,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+58,25,Female,Single,0,3600,Employed,2,600,630,2,0.18,10000,36,1500,0.06,210,Rent,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+59,46,Male,Married,3,7200,Employed,7,1400,710,6,0.31,23000,60,3500,0.08,400,Own,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+60,34,Female,Married,1,5700,Employed,4,1200,680,5,0.27,19000,60,3000,0.08,380,Own,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+61,41,Male,Single,0,6800,Employed,9,1600,720,6,0.29,25000,60,4500,0.09,460,Rent,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+62,28,Female,Single,0,4200,Employed,3,700,660,3,0.22,13000,48,2500,0.07,290,Rent,High School,Not Applicable,0,0,Not Applicable,Eligible
+63,44,Male,Married,2,7800,Self-Employed,10,1600,730,6,0.29,29000,72,5000,0.09,520,Own,Master's,Previous Loan Closed,22000,48,Home Improvement,Not Eligible
+64,31,Female,Married,1,5600,Employed,5,1200,670,4,0.26,18000,60,3000,0.08,380,Own,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+65,37,Male,Single,1,6200,Employed,4,1400,700,5,0.29,22000,60,4000,0.08,420,Rent,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+66,26,Female,Single,0,3800,Employed,2,600,630,2,0.18,10000,36,1500,0.06,210,Rent,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+67,47,Male,Married,3,8500,Employed,12,1700,740,8,0.38,32000,72,6000,0.1,560,Own,Doctorate,Not Applicable,0,0,Not Applicable,Eligible
+68,31,Female,Married,2,6000,Employed,6,1300,690,5,0.29,20000,60,3500,0.08,400,Own,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+69,39,Male,Single,1,5900,Employed,5,1300,690,5,0.28,21000,60,4000,0.08,420,Rent,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+70,28,Female,Single,0,4200,Employed,3,700,660,3,0.22,13000,48,2500,0.07,290,Rent,High School,Not Applicable,0,0,Not Applicable,Eligible
+71,44,Male,Married,2,7800,Self-Employed,10,1600,730,6,0.29,29000,72,5000,0.09,520,Own,Master's,Previous Loan Closed,22000,48,Home Improvement,Not Eligible
+72,31,Female,Married,1,5600,Employed,5,1200,670,4,0.26,18000,60,3000,0.08,380,Own,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+73,37,Male,Single,0,6600,Employed,8,1500,710,5,0.29,24000,60,4000,0.08,420,Rent,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+74,25,Female,Single,0,3600,Employed,2,600,630,2,0.18,10000,36,1500,0.06,210,Rent,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+75,46,Male,Married,3,7200,Employed,7,1400,710,6,0.31,23000,60,3500,0.08,400,Own,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+76,34,Female,Married,1,5700,Employed,4,1200,680,5,0.27,19000,60,3000,0.08,380,Own,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+77,41,Male,Single,0,6800,Employed,9,1600,720,6,0.29,25000,60,4500,0.09,460,Rent,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+78,28,Female,Single,0,4200,Employed,3,700,660,3,0.22,13000,48,2500,0.07,290,Rent,High School,Not Applicable,0,0,Not Applicable,Eligible
+79,44,Male,Married,2,7800,Self-Employed,10,1600,730,6,0.29,29000,72,5000,0.09,520,Own,Master's,Previous Loan Closed,22000,48,Home Improvement,Not Eligible
+80,31,Female,Married,1,5600,Employed,5,1200,670,4,0.26,18000,60,3000,0.08,380,Own,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+81,37,Male,Single,1,6200,Employed,4,1400,700,5,0.29,22000,60,4000,0.08,420,Rent,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+82,26,Female,Single,0,3800,Employed,2,600,630,2,0.18,10000,36,1500,0.06,210,Rent,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+83,47,Male,Married,3,8500,Employed,12,1700,740,8,0.38,32000,72,6000,0.1,560,Own,Doctorate,Not Applicable,0,0,Not Applicable,Eligible
+84,31,Female,Married,2,6000,Employed,6,1300,690,5,0.29,20000,60,3500,0.08,400,Own,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+85,39,Male,Single,1,5900,Employed,5,1300,690,5,0.28,21000,60,4000,0.08,420,Rent,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+86,28,Female,Single,0,4200,Employed,3,700,660,3,0.22,13000,48,2500,0.07,290,Rent,High School,Not Applicable,0,0,Not Applicable,Eligible
+87,44,Male,Married,2,7800,Self-Employed,10,1600,730,6,0.29,29000,72,5000,0.09,520,Own,Master's,Previous Loan Closed,22000,48,Home Improvement,Not Eligible
+88,31,Female,Married,1,5600,Employed,5,1200,670,4,0.26,18000,60,3000,0.08,380,Own,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+89,37,Male,Single,0,6600,Employed,8,1500,710,5,0.29,24000,60,4000,0.08,420,Rent,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+90,25,Female,Single,0,3600,Employed,2,600,630,2,0.18,10000,36,1500,0.06,210,Rent,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+91,46,Male,Married,3,7200,Employed,7,1400,710,6,0.31,23000,60,3500,0.08,400,Own,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+92,34,Female,Married,1,5700,Employed,4,1200,680,5,0.27,19000,60,3000,0.08,380,Own,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+93,41,Male,Single,0,6800,Employed,9,1600,720,6,0.29,25000,60,4500,0.09,460,Rent,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+94,28,Female,Single,0,4200,Employed,3,700,660,3,0.22,13000,48,2500,0.07,290,Rent,High School,Not Applicable,0,0,Not Applicable,Eligible
+95,44,Male,Married,2,7800,Self-Employed,10,1600,730,6,0.29,29000,72,5000,0.09,520,Own,Master's,Previous Loan Closed,22000,48,Home Improvement,Not Eligible
+96,31,Female,Married,1,5600,Employed,5,1200,670,4,0.26,18000,60,3000,0.08,380,Own,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+97,37,Male,Single,1,6200,Employed,4,1400,700,5,0.29,22000,60,4000,0.08,420,Rent,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+98,26,Female,Single,0,3800,Employed,2,600,630,2,0.18,10000,36,1500,0.06,210,Rent,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+99,47,Male,Married,3,8500,Employed,12,1700,740,8,0.38,32000,72,6000,0.1,560,Own,Doctorate,Not Applicable,0,0,Not Applicable,Eligible
+100,31,Female,Married,2,6000,Employed,6,1300,690,5,0.29,20000,60,3500,0.08,400,Own,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+101,39,Male,Single,1,5900,Employed,5,1300,690,5,0.28,21000,60,4000,0.08,420,Rent,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+102,28,Female,Single,0,4200,Employed,3,700,660,3,0.22,13000,48,2500,0.07,290,Rent,High School,Not Applicable,0,0,Not Applicable,Eligible
+103,44,Male,Married,2,7800,Self-Employed,10,1600,730,6,0.29,29000,72,5000,0.09,520,Own,Master's,Previous Loan Closed,22000,48,Home Improvement,Not Eligible
+104,31,Female,Married,1,5600,Employed,5,1200,670,4,0.26,18000,60,3000,0.08,380,Own,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+105,37,Male,Single,0,6600,Employed,8,1500,710,5,0.29,24000,60,4000,0.08,420,Rent,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+106,25,Female,Single,0,3600,Employed,2,600,630,2,0.18,10000,36,1500,0.06,210,Rent,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+107,46,Male,Married,3,7200,Employed,7,1400,710,6,0.31,23000,60,3500,0.08,400,Own,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+108,34,Female,Married,1,5700,Employed,4,1200,680,5,0.27,19000,60,3000,0.08,380,Own,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+109,41,Male,Single,0,6800,Employed,9,1600,720,6,0.29,25000,60,4500,0.09,460,Rent,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+110,28,Female,Single,0,4200,Employed,3,700,660,3,0.22,13000,48,2500,0.07,290,Rent,High School,Not Applicable,0,0,Not Applicable,Eligible
+111,44,Male,Married,2,7800,Self-Employed,10,1600,730,6,0.29,29000,72,5000,0.09,520,Own,Master's,Previous Loan Closed,22000,48,Home Improvement,Not Eligible
+112,31,Female,Married,1,5600,Employed,5,1200,670,4,0.26,18000,60,3000,0.08,380,Own,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+113,37,Male,Single,0,6600,Employed,8,1500,710,5,0.29,24000,60,4000,0.08,420,Rent,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+114,25,Female,Single,0,3600,Employed,2,600,630,2,0.18,10000,36,1500,0.06,210,Rent,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+115,46,Male,Married,3,7200,Employed,7,1400,710,6,0.31,23000,60,3500,0.08,400,Own,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+116,34,Female,Married,1,5700,Employed,4,1200,680,5,0.27,19000,60,3000,0.08,380,Own,Associate's,Not Applicable,0,0,Not Applicable,Eligible
+117,41,Male,Single,0,6800,Employed,9,1600,720,6,0.29,25000,60,4500,0.09,460,Rent,Bachelor's,Not Applicable,0,0,Not Applicable,Eligible
+118,28,Female,Single,0,4200,Employed,3,700,660,3,0.22,13000,48,2500,0.07,290,Rent,High School,Not Applicable,0,0,Not Applicable,Eligible
+119,44,Male,Married,2,7800,Self-Employed,10,1600,730,6,0.29,29000,72,5000,0.09,520,Own,Master's,Previous Loan Closed,22000,48,Home Improvement,Not Eligible
+120,31,Female,Married,1,5600,Employed,5,1200,670,4,0.26,18000,60,3000,0.08,380,Own,Associate's,Not Applicable,0,0,Not Applicable,Eligible
